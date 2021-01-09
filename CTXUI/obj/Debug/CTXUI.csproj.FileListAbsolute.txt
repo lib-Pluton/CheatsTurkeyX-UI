@@ -1,0 +1,17 @@
+C:\Users\moren\Desktop\CTX-UI\CTXUI\bin\Debug\CTXUI.exe.config
+C:\Users\moren\Desktop\CTX-UI\CTXUI\bin\Debug\CTXUI.exe
+C:\Users\moren\Desktop\CTX-UI\CTXUI\bin\Debug\CTXUI.pdb
+C:\Users\moren\Desktop\CTX-UI\CTXUI\bin\Debug\MetroFramework.Design.dll
+C:\Users\moren\Desktop\CTX-UI\CTXUI\bin\Debug\MetroFramework.dll
+C:\Users\moren\Desktop\CTX-UI\CTXUI\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.csprojAssemblyReference.cache
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.UIAbout.resources
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.UIHome.resources
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.Properties.Resources.resources
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.UIMessage.resources
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.UISettings.resources
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.csproj.GenerateResource.cache
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.csproj.CoreCompileInputs.cache
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.csproj.CopyComplete
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.exe
+C:\Users\moren\Desktop\CTX-UI\CTXUI\obj\Debug\CTXUI.pdb
