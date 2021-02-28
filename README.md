@@ -8,7 +8,9 @@ Cheat Loader System
 ### Screenshots
 
 #### 1
-![Screenshot](https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/hometab.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/hometab.png" width=800>
+  <br><br>
 
 #### 2
 ![Screenshot](https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/abouttab.png)
