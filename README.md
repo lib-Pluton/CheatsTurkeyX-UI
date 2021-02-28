@@ -9,17 +9,23 @@ Cheat Loader System
 
 #### 1
 <p align="center">
-  <img src="https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/hometab.png" width=800>
+  <img src="https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/hometab.png" width=1000>
   <br><br>
 
 #### 2
-![Screenshot](https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/abouttab.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/abouttab.png" width=1000>
+  <br><br>
 
 #### 3
-![Screenshot](https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/settingtab.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/settingtab.png" width=1000>
+  <br><br>
 
 #### 4
-![Screenshot](https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/msgtab.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/lib-Pluton/CheatsTurkeyX-UI/main/img/msgtab.png" width=1000>
+  <br><br>
 
 # Dev:
 ##### PlutonLib - Shaggy - SepulTura
