@@ -28,4 +28,4 @@
   <br><br>
 
 # Dev:
-##### PlutonLib - Shaggy - SepulTura
+##### PlutonLib - Shaggy - SepulTura - Majdev - Xenos
